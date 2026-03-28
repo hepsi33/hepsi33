@@ -42,7 +42,7 @@ I enjoy building real-time systems and solving practical problems through hands-
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
 alt="Hugging Face" title="Hugging Face" width="36" height="36"/>
 </a>
----
+
 
 ### 🌐 Socials
 
