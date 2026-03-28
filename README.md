@@ -38,9 +38,10 @@ I enjoy building real-time systems and solving practical problems through hands-
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36"/></a>
 <a href="https://wordpress.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36"/></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
-</p>
-
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+alt="Hugging Face" title="Hugging Face" width="36" height="36"/>
+</a>
 ---
 
 ### 🌐 Socials
@@ -56,20 +57,9 @@ I enjoy building real-time systems and solving practical problems through hands-
 
 ---
 
-### ⭐ Featured Project
+### Repos
 
-**NHAPP Chat** – Real-time messaging mobile application built using React Native (Expo Router) and Convex with email OTP authentication, media sharing, voice notes, status updates, reactions, and group chat functionality.
+<b>Top Repositories</b>
 
----
+<div width="100%" align="center"><a href="https://github.com/hepsi33/NHAPP_Chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hepsi33&repo=NHAPP_Chat&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/hepsi33/Role-based-Dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hepsi33&repo=Role-based-Dashboard&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### 📌 Top Repositories
-
-<div width="100%" align="center">
-<a href="https://github.com/hepsi33/NHAPP_Chat">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hepsi33&repo=NHAPP_Chat&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true"/>
-</a>
-
-<a href="https://github.com/hepsi33/Role-based-Dashboard">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hepsi33&repo=Role-based-Dashboard&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true"/>
-</a>
-</div>
