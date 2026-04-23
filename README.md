@@ -6,7 +6,7 @@ Full Stack Developer | Exploring LLM & AI Applications
 
 I’m a BCA student and aspiring software developer focused on building real-world full-stack and AI-powered applications.
 
-I work with Python, Java, React, SQL, HTML, CSS, and JavaScript across modern development environments.
+I work with Python, React, SQL, HTML, CSS, and JavaScript across modern development environments.
 
 Currently exploring AI application development using LLMs, LangChain, and RAG-based architectures.
 
@@ -54,8 +54,6 @@ alt="Hugging Face" title="Hugging Face" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
 </a>
 </p>
-
----
 
 ### Repos
 
