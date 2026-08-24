@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hephzibah Kumar
 ========================================================================================================================================
 
-Full Stack Developer | Exploring LLM & AI Applications
+Java Developer | Exploring  AI Applications
 -------------------------------------
 
-I’m a BCA student and aspiring software developer focused on building real-world full-stack and AI-powered applications.
+I’m a BCA graduate and aspiring software developer focused on building real-world full-stack and AI-powered applications.
 
-I work with Python, React, SQL, HTML, CSS, and JavaScript across modern development environments.
+I work with Java, Python, React, SQL, HTML, CSS, and JavaScript across modern development environments.
 
-Currently exploring AI application development using LLMs, LangChain, and RAG-based architectures.
+Currently exploring AI application development.
 
 I enjoy building real-time systems and solving practical problems through hands-on projects. 🚀
 
